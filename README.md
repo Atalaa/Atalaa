@@ -1,5 +1,5 @@
 ### Hello World! My name is Aata - [My Portfolio][website] 👋
-<img src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" alt="gif_coder" width="500" height="220" align="right"/>
+<img src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" alt="gif_coder" width="300" height="300" align="right"/>
 
 ## I'm a Husband, Father, Developer and Gamer!
 - 👨‍💻 I'm a Web Developer at DreamPayments in Toronto
