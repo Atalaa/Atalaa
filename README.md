@@ -1,7 +1,7 @@
 ## Hello World! My name is Aata - [My Portfolio][website] 👋
 <img src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" alt="gif_coder" width="450" height="300" align="right"/>
 
-## I'm a Husband, Father, Developer and Gamer!
+### I'm a Husband, Father, Developer and Gamer!
 - 👨‍💻 I'm a Web Developer at DreamPayments in Toronto
 - 📚 I'm currently learning React Native and NodeJS
 - 🎯 2021 Goals: Get better in React and create more projects
