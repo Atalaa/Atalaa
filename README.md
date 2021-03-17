@@ -9,6 +9,8 @@
 - 🔥 Fun facts: I love to play guitar and plan to start drums.
 - 💬 I speak English and French.
 
+### Let's connect
+
 <br />
 <br />
 
