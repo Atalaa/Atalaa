@@ -1,5 +1,4 @@
-### Hello World! 
-## My name is Aata - [My Portfolio][website] 👋
+# Hello World! My name is Aata - [My Portfolio][website] 👋
 <img src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" alt="gif_coder" width="450" height="300" align="right"/>
 
 ## I'm a Husband, Father, Developer and Gamer!
