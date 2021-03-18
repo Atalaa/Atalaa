@@ -1,5 +1,5 @@
 ## Hello World! My name is Aata -  👋
-<img src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" alt="gif_coder" width="450" height="300" align="right"/>
+<img align="right" alt="gif_coder" width="450" height="300" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
 
 ### I'm a Husband, Father, Developer and Gamer!
 - 📂 You can find my projects here [Portfolio][website].
@@ -10,7 +10,7 @@
 - 💬 I speak English and French.
 
 ### Let's connect:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
