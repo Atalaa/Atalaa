@@ -1,3 +1,6 @@
+<img align="right" alt="gif_coder" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
+
+
 ## Hello World! My name is Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /> 
 
 <img align="right" alt="gif_coder" width="450" height="300" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
