@@ -1,4 +1,4 @@
-<img align="middle" alt="gif_coder" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
+<img alt="gif_coder" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
 
 <br />
 
