@@ -1,4 +1,4 @@
-## Hello World! My name is Aata - <img align="right" alt="gif_coder" width="50px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving.gif?raw=true" />
+## Hello World! My name is Aata <img align="right" alt="gif_coder" width="50" src="https://github.com/Atalaa/gif_readme2/blob/main/waving.gif?raw=true" /> 
 
 <br />
  
@@ -39,3 +39,4 @@
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
 [vscode]: https://code.visualstudio.com/
+ 
