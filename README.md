@@ -26,8 +26,7 @@
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br />
-<br />
+---
 
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
