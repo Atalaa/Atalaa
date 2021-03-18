@@ -1,5 +1,7 @@
 <img align="right" alt="gif_coder" src="https://github.com/Atalaa/gif_readme/blob/main/coder.gif?raw=true" />
 
+<br />
+
 
 ## Hello World! My name is Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /> 
 
