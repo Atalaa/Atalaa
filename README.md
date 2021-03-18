@@ -30,6 +30,15 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true" />
+
+</details>
+
+
+
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
 [vscode]: https://code.visualstudio.com/
