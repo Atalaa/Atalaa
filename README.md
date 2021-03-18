@@ -17,5 +17,5 @@
 <br />
 
 [website]: https://atalaa.github.io/portfolio/
-[Linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
+[linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
 [instagram]: https://www.instagram.com/
