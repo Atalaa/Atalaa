@@ -1,4 +1,4 @@
-## Hello World! My name is Aata <img align="right" alt="gif_coder" width="50" src="https://github.com/Atalaa/gif_readme2/blob/main/waving.gif?raw=true" /> 
+## Hello World! My name is Aata <img align="middle" alt="gif_waving" width="70" src="https://github.com/Atalaa/gif_readme2/blob/main/waving.gif?raw=true" /> 
 
 <br />
  
