@@ -37,7 +37,7 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=Atalaa&langs_count=5" />
+  <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=Atalaa&langs_count=5&theme=shades-of-purple" />
 </details>
 
 
