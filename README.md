@@ -11,6 +11,7 @@
 
 ### Let's connect
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][Linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Instagram.svg" />][Linkedin]
 
 <br />
 <br />
