@@ -10,11 +10,12 @@
 - 💬 I speak English and French.
 
 ### Let's connect
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][Linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][Linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
 
 [website]: https://atalaa.github.io/portfolio/
 [Linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
+[instagram]: https://www.instagram.com/
