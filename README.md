@@ -35,6 +35,9 @@
 ### ⚡Most Used Languages
 <img align="top" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=Atalaa&langs_count=5&layout=compact&theme=shades-of-purple" />
 
+### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=atalaa.atalaa&style=flat)
+
 
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
