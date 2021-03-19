@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Statss<summary>
     
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
+  <img align="left" alt="S" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
   
 </details>
 
