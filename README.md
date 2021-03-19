@@ -28,12 +28,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
   <img align="left" alt="Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
-
-</details>
 
 
 <details>
