@@ -12,7 +12,7 @@
 
 ### Let's connect:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff&color=0072b1" />][linkedin]
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mailto]
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff&color=EA4335" />][mailto]
 
 <br /><br />
 
