@@ -25,7 +25,7 @@
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&color=f34f29" />
 <img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff&color=1476a2" />
 
-<br />
+
 
 ---
 
