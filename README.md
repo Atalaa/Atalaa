@@ -31,7 +31,8 @@
 ### GitHub Stats
 <img align="left" alt="Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
 
-<br /> ### Most Used Languages
+<br /> 
+### Most Used Languages
 <img align="left" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=Atalaa&langs_count=5&theme=shades-of-purple" />
 
 
