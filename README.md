@@ -38,6 +38,5 @@
 
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
-[vscode]: https://code.visualstudio.com/
 [mailto]: mailto:atala.rchidi@gmail.com
  
