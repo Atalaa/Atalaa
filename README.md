@@ -10,7 +10,6 @@
 - 🔥 Fun facts: I love to play guitar and plan to start drums.
 - 💬 I speak English and French.
 
-<br />
 
 ### Let's connect:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff&color=0072b1" />][linkedin]
