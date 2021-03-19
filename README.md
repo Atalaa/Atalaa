@@ -23,7 +23,7 @@
 <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=fff" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=fff" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=fff" />
-<img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff&color=1476a2" />
+<img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=fff" />
 
 <br /><br />
 
