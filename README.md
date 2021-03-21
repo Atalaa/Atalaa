@@ -21,7 +21,7 @@
 <br />
 
 ### Languages and Tools:
-<p style="cursor:default";>
+<p class="me">
  <img align="left" alt="JavaScript" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=fff" />
  <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff" />
  <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=fff" />
@@ -44,6 +44,12 @@
 ### 👀 Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=atalaa.atalaa)
 
+
+<style>
+  .me{
+   cursor:default;
+ }
+</style>
 
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
