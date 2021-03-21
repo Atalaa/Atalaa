@@ -14,7 +14,7 @@
 
 
 ### Let's connect:
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=fff" style="pointer-events:none;" />][linkedin]
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" />][mailto]
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" />][twitter]
 
