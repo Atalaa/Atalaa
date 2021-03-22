@@ -32,10 +32,9 @@
 </p>
 
 <br />
+<br />
 
 ---
-
-<br />
 
 ### 📈 GitHub Stats
 <img align="top" alt="Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
