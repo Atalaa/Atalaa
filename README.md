@@ -22,8 +22,8 @@
 
 ### Languages and Tools:
 <p>
- <img align="left" alt="JavaScript" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=fff" />
- <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff" />
+ <img align="left" alt="JavaScript" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=000&logoColor=F0DB4F" />
+ <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff&labelColor=000" />
  <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=fff" />
  <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=fff" />
  <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=fff" />
