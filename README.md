@@ -31,8 +31,6 @@
  <img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=1476a2&labelColor=000" />
 </p>
 
-<br /><br />
-
 ---
 
 ### 📈 GitHub Stats
