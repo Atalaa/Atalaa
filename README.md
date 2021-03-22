@@ -24,8 +24,8 @@
 <p>
  <img align="left" alt="JavaScript" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000" />
  <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff&labelColor=000" />
- <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=000" />
- <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=fff&labelColor=000" />
+ <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=000" />
+ <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=fff&labelColor=000" />
  <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=589636&labelColor=000" />
  <img align="left" alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=f34f29&labelColor=000" />
  <img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=1476a2&labelColor=000" />
