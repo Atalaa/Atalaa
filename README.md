@@ -27,8 +27,6 @@
  <a href="https://nodejs.org/en/"><img align="left" alt="Node.js" title="Node" src="https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=000" /></a>
  <a href="https://expressjs.com/"><img align="left" alt="Express.js" title="Express" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=fff&labelColor=000" /></a>
  <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=589636&labelColor=000" /></a>
- <a href="https://git-scm.com/"><img align="left" alt="Git" title="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=f34f29&labelColor=000" /></a>
- <a href="https://classic.yarnpkg.com/en/"><img align="top" alt="Yarn" title="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=1476a2&labelColor=000" /></a>
 </p>
 
 ---
