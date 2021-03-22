@@ -14,9 +14,9 @@
 
 
 ### Let's connect 📫:
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />][linkedin]
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff" />][mailto]
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff" />][twitter]
+[<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />][linkedin]
+[<img align="left" alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff" />][mailto]
+[<img align="left" alt="twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff" />][twitter]
 
 <br />
 
