@@ -29,6 +29,8 @@
  <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=589636&labelColor=000" /></a>
 </p>
 
+<br />
+
 ---
 
 ### 📈 GitHub Stats
