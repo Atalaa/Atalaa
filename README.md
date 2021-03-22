@@ -28,7 +28,7 @@
  <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=fff&labelColor=000" />
  <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=589636&labelColor=000" />
  <img align="left" alt="Git" src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=f34f29&labelColor=000" />
- <img align="left" alt="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=1476a2&labelColor=000" />
+ <img align="top" alt="Yarn" src="https://img.shields.io/badge/Yarn-1476a2?style=for-the-badge&logo=yarn&logoColor=1476a2&labelColor=000" />
 </p>
 
 <br />
