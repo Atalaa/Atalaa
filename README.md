@@ -22,7 +22,7 @@
 
 ### Languages and Tools:
 <p>
- <img align="left" alt="JS" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000" />
+ <a href="#"><img align="left" alt="JS" title="javascript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=000" /></a>
  <img align="left" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff&labelColor=000" />
  <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=000" />
  <img align="left" alt="Express.js" src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=fff&labelColor=000" />
