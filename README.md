@@ -9,7 +9,7 @@
 - 🔥 Fun facts: I love to play guitar and plan to start drums.
 - 💬 I speak English and French.
 - 📂 You can find my projects here [Portfolio][website].
-- 💾 My <a href="https://atalaa.github.io/portfolio/static/media/Aata-allah_Rchidi_resume.ba857c9c.pdf" target="_blank">Resume</a>
+- 💾 My <a href="https://atalaa.github.io/portfolio/static/media/Aata-allah_Rchidi_resume.eb27857c.pdf" target="_blank">Resume</a>
 
 
 
