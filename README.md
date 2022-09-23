@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi there <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />, I'm Aata.</h1>
 <h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> 
+<br/>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
 - 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a>.
@@ -13,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aata-allah-rchidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aata-allah-rchidi/" height="30" width="40" /></a>
 </p>
-
+<br/><br/><br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 
 
