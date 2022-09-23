@@ -5,7 +5,7 @@
 ### I'm a Husband, Father, Developer and Gamer!
 - 👨‍💻 I'm a Web Developer at DreamPayments in Toronto.
 - 📚 I'm currently improving my skills in React.
-- 🎯 2021 Goals: Get better in React and create more projects (web and mobile).
+- 🎯 2023 Goals: Get better in React, Redux and create more projects (web and mobile).
 - 🔥 Fun facts: I love to play guitar and plan to start drums.
 - 💬 I speak English and French.
 - 📂 You can find my projects here [Portfolio][website].
