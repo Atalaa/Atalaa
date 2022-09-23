@@ -1,12 +1,10 @@
-<div align="center>
- ## Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />
-</div>
+# Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />
 
 ### I'm a Husband, Father and Developer!
-- 👨‍💻 I'm a Web Developer at DreamPayments in Toronto.
-- 📚 I'm currently improving my skills in React.
-- 🎯 2023 Goals: Get better in React, Redux and create more projects (web and mobile).
-- 🔥 Fun facts: I love to play guitar and plan to start drums.
+- 👨‍💻 I'm a Frontend Developer based in Ottawa.
+- 📚 I'm working on React/Redux.
+- 🎯 2023 Goals: Explore more technologies like GraphQL, Gatsby, NextJS, NodeJS.
+- 🔥 Fun facts: I love to play guitar.
 - 💬 I speak English and French.
 - 📂 You can find my projects here [Portfolio][website].
 - 💾 My <a href="https://atalaa.github.io/portfolio/static/media/Aata-allah_Rchidi_resume.eb27857c.pdf" target="_blank">Resume</a>
@@ -14,9 +12,8 @@
 
 
 ### Let's connect 📫:
-[<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />][linkedin]
+[<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" target="_blank"/>][linkedin]
 [<img align="left" alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff" />][mailto]
-[<img align="left" alt="twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff" />][twitter]
 
 <br />
 
@@ -52,5 +49,4 @@
 [website]: https://atalaa.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/aata-allah-rchidi/
 [mailto]: mailto:atala.rchidi@gmail.com
-[twitter]: https://twitter.com/AataRchidi
  
