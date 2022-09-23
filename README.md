@@ -43,22 +43,21 @@
  <a href="https://www.gatsbyjs.com/" rel="nofollow"><img align="left" alt="Gatsby" width="26px" src="https://camo.githubusercontent.com/85a3f21551aec9137fd7627cd9b4ce0f7cf844ab80f26e7f091cc3c39d117e2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6761747362792f6761747362792d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="max-width: 100%;"></a>
  
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="26px" style="max-width: 100%;"/> 
+  <img align="left" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="26px" style="max-width: 100%;"/> 
  </a> 
  
  <a href="https://git-scm.com/" rel="nofollow"><img align="left" alt="Git" width="26px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;"></a>
  
- 
+ <a href="https://github.com/" rel="nofollow"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="max-width: 100%;"></a>
 
-<hr>
-
+<br/>
+<h1></h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalaa&show_icons=true&locale=en&layout=compact" alt="atalaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atalaa&show_icons=true&locale=en" alt="atalaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atalaa&" alt="atalaa" /></p>
-
 
 
 
