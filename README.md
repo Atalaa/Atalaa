@@ -1,6 +1,8 @@
-## Hello World! My name is [Aata][linkedin] <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /> 
+<div align="center>
+ ## Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />
+</div>
 
-### I'm a Husband, Father, Developer and Gamer!
+### I'm a Husband, Father and Developer!
 - 👨‍💻 I'm a Web Developer at DreamPayments in Toronto.
 - 📚 I'm currently improving my skills in React.
 - 🎯 2023 Goals: Get better in React, Redux and create more projects (web and mobile).
