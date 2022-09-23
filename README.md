@@ -55,9 +55,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atalaa&show_icons=true&locale=en&layout=compact" alt="atalaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atalaa&show_icons=true&locale=en" alt="atalaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atalaa&" alt="atalaa" /></p>
-
-
-
