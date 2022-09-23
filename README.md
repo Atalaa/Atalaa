@@ -4,18 +4,22 @@
 <h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
-- 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a>
+- 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a>.
 
-- 📫 How to reach me **atala.rchidi@gmail.com**
+- 📫 How to reach me **atala.rchidi@gmail.com**.
 
-- 📂 Know about my experiences on <a href="https://www.linkedin.com/in/aata-allah-rchidi/">**Linkedin**</a> 
+- 📂 Know about my experiences on <a href="https://www.linkedin.com/in/aata-allah-rchidi/">**Linkedin**</a>.
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aata-allah-rchidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aata-allah-rchidi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+ </a> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
  </a> 
@@ -56,7 +60,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
  </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
 
 <hr>
 
