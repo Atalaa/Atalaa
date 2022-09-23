@@ -35,10 +35,10 @@
 ---
 
 ### 📈 GitHub Stats
-<img align="top" alt="Stats" src="https://github-readme-stats-atalaa.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
+<img align="top" alt="Stats" src="https://github-readme-stats-2022.vercel.app/api?username=Atalaa&show_icons=true&hide_border=true&hide=prs,contribs&theme=shades-of-purple" />
 
 ### ⚡ Most Used Languages
-<img align="top" alt="GitHub Top Languages" src="https://github-readme-stats-atalaa.vercel.app/api/top-langs/?username=Atalaa&langs_count=5&layout=compact&theme=shades-of-purple" />
+<img align="top" alt="GitHub Top Languages" src="https://github-readme-stats-2022.vercel.app/api/top-langs/?username=Atalaa&langs_count=5&layout=compact&theme=shades-of-purple" />
 
 ### 👀 Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=atalaa.atalaa)
