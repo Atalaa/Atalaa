@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /></h1>
-<h3 align="center">A passionate Frontend Developer from Ottawa, Canada</h3> <hr>
+<h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> <hr>
 
 - 👨‍💻 All of my projects are available at [https://atalaa.github.io/portfolio](https://atalaa.github.io/portfolio)
 
@@ -11,9 +11,7 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atalaa&label=Profile%20views&color=0e75b6&style=flat" alt="atalaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atalaa" alt="atalaa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atalaa&label=Profile%20views&color=0e75b6&style=flat" alt="atalaa" /> 👀</p>
 
 <hr>
 
