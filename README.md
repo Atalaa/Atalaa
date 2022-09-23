@@ -1,3 +1,5 @@
+<img alt="code" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
+
 <h1 align="center">Hi there <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />, I'm Aata</h1>
 <h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
