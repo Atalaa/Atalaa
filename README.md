@@ -8,12 +8,6 @@
 
 - 📂 Know about my experiences on <a href="https://www.linkedin.com/in/aata-allah-rchidi/">**Linkedin**</a> 
 
-<h3 align="left">Connect with me:</h3>
-<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />
-<img align="left" alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff" />
-
-<br/>
-
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aata-allah-rchidi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aata-allah-rchidi/" height="30" width="40" /></a>
 </p>
