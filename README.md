@@ -1,12 +1,8 @@
-<h1 align="center">Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /></h1>
+<h1 align="center">Hi there <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" />, I'm Aata</h1>
 <h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atalaa&label=Profile%20views&color=0e75b6&style=flat" alt="atalaa" /></p>
 
-
-- 👨‍💻 All of my projects are available at [https://atalaa.github.io/portfolio](https://atalaa.github.io/portfolio)
-
-- 💬 Ask me about **React, Angular**
+- 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a>
 
 - 📫 How to reach me **atala.rchidi@gmail.com**
 
