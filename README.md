@@ -7,12 +7,12 @@
 - 🔥 Fun facts: I love to play guitar.
 - 💬 I speak English and French.
 - 📂 You can find my projects here [Portfolio][website].
-- 💾 My <a href="https://atalaa.github.io/portfolio/static/media/Aata-allah_Rchidi_resume.eb27857c.pdf" target="_blank">Resume</a>
+- 💾 My <a href="https://atalaa.github.io/portfolio/static/media/Aata-allah_Rchidi_resume.eb27857c.pdf">Resume</a>
 
 
 
 ### Let's connect 📫:
-[<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" /> {target="_blank}][linkedin]
+[<img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />][linkedin]
 [<img align="left" alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=fff" />][mailto]
 
 <br />
