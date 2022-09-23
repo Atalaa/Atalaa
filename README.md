@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **atala.rchidi@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aata-allah-rchidi/](https://www.linkedin.com/in/aata-allah-rchidi/)
+- 📂 Know about my experiences on <a href="https://www.linkedin.com/in/aata-allah-rchidi/">**Linkedin**</a> 
 
 <h3 align="left">Connect with me:</h3>
 <img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />
