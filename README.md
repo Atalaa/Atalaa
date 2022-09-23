@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Aata <img align="bottom" alt="gif_waving" width="30px" src="https://github.com/Atalaa/gif_readme2/blob/main/waving2.gif?raw=true" /></h1>
-<h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> <hr>
+<h3 align="center">A passionate Frontend Developer from Ottawa, Canada.</h3> 
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atalaa&label=Profile%20views&color=0e75b6&style=flat" alt="atalaa" /></p>
+
 
 - 👨‍💻 All of my projects are available at [https://atalaa.github.io/portfolio](https://atalaa.github.io/portfolio)
 
@@ -8,12 +11,6 @@
 - 📫 How to reach me **atala.rchidi@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aata-allah-rchidi/](https://www.linkedin.com/in/aata-allah-rchidi/)
-
-<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atalaa&label=Profile%20views&color=0e75b6&style=flat" alt="atalaa" /> 👀</p>
-
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <img align="left" alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=fff" />
