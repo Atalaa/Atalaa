@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 
-- 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a>.
+- 👨‍💻 I’m currently working on <a href="https://reactjs.org/" target="_blank">**React**</a> and <a href="https://www.java.com/en/" target="_blank">**Java**</a>.
 
 - 📂 Know about my experiences on <a href="https://www.linkedin.com/in/aata-allah-rchidi/">**Linkedin**</a>.
 
