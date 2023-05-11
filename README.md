@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="left" alt="Java" width="auto" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.oracle.com/java/technologies/" rel="nofollow"><img align="left" alt="Java" width="auto" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-width: 100%;"></a>
 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="left" alt="JavaScript" width="26px" title="Javascript" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a>
  
